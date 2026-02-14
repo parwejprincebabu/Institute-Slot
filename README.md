@@ -1,2 +1,1 @@
 InstituteSlot
-_
